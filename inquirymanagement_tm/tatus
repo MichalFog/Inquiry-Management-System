@@ -1,0 +1,501 @@
+[33mcommit bb0cddbe6127be5105f6ca7269507d58507daa2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/refactor/logic-and-cleanup[m[33m, [m[1;31morigin/feature/CancelInquiry[m[33m, [m[1;32mfeature/CancelInquiry[m[33m)[m
+Author: Tami Medan <tamimedan2880@gmail.com>
+Date:   Mon May 26 12:29:36 2025 +0300
+
+    move to history
+
+[33mcommit 913623f8585cc2e821da7ddc977e64210a17f110[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Sun May 25 21:49:31 2025 +0300
+
+    do the program with thread
+
+[33mcommit 941ae9f9d39804049bf09dfa70e8ea757f16f5f6[m
+Merge: 7d2b94a 63d46df
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Fri May 23 06:18:58 2025 +0300
+
+    change from allInquiry to allInquiries - slove conflict
+
+[33mcommit 7d2b94a7fcec9a4e61792f91d71c75e4971834bd[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Fri May 23 06:15:56 2025 +0300
+
+    cancel inquiry and move it to the history folder
+
+[33mcommit 63d46df546be2371ccbc48a161520855769dbd96[m
+Merge: 2cf0721 b7d81f8
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu May 22 23:40:59 2025 +0300
+
+    Code organization and testing
+
+[33mcommit 2cf072156593c3fa7d6bf789a3c3b6e02180237e[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu May 22 23:37:27 2025 +0300
+
+    Code organization and testing
+
+[33mcommit b7d81f8efd03dd68abbc37cbc3aa9a6a6bee87bf[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu May 22 20:17:27 2025 +0300
+
+    fix fuction that didn't work
+
+[33mcommit cce75ced3b702af54526641967468dbf4adc33c8[m
+Merge: 1ebccf3 9556390
+Author: תמר מדן <TamarMe@smg.local>
+Date:   Wed May 21 14:01:34 2025 +0300
+
+    nothing to commit
+
+[33mcommit 1ebccf396f1e02812f181adae67990b92bb7986a[m
+Author: תמר מדן <TamarMe@smg.local>
+Date:   Mon May 19 20:17:53 2025 +0300
+
+    get representative by inquityId
+
+[33mcommit 955639058609799849b439bc1db70f5969c93798[m
+Merge: 32175e9 32aff4f
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Mon May 19 17:14:54 2025 +0000
+
+    Merged feature/Update-csv into master
+
+[33mcommit 32175e9096067c499bf5f491169e40f9819e26f4[m
+Merge: 42b7fb5 32aff4f
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Mon May 19 17:04:02 2025 +0000
+
+    Merged feature/Update-csv into master
+
+[33mcommit 32aff4f4590b0f1c540f9b7688b7ce24c713dcbd[m[33m ([m[1;31morigin/feature/Update-csv[m[33m)[m
+Merge: 3e284db 42b7fb5
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Mon May 19 20:03:19 2025 +0300
+
+    fix conflict
+
+[33mcommit 42b7fb59d62a2ba68ca742b892182824bf4b5538[m
+Merge: e455c21 9d2ce63
+Author: TAMAR MEDAN <tamimedan2880@gmail.com>
+Date:   Mon May 19 16:07:29 2025 +0000
+
+    Merged feature/RepresentativeManagment---login-menu into master
+
+[33mcommit 9d2ce63e5ea2def6d4272ff46375ff987fbdba07[m
+Author: Tami Medan <tamimedan2880@gmail.com>
+Date:   Mon May 19 16:16:20 2025 +0300
+
+    add func get status
+
+[33mcommit 589ea85b62b24e2cd7ddff42c5ebee6515dec8d9[m
+Author: Tami Medan <tamimedan2880@gmail.com>
+Date:   Mon May 19 01:35:12 2025 +0300
+
+    Adding request options and implementing them
+
+[33mcommit 3e284dbf024931f17f627a2302f47694901e7ae4[m[33m ([m[1;32mfeature/Update-csv[m[33m)[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Sun May 18 14:04:42 2025 +0300
+
+    save in scv statrus and representative
+
+[33mcommit e455c218ad6cf2fbd1253b5453a36bc32a77e54b[m
+Merge: 8b97f47 8b5c2b0
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Fri May 16 15:00:03 2025 +0000
+
+    Merged feature/RepresentativeManagment---login-menu into master
+
+[33mcommit 8b5c2b0c39df5195d6f12d8ebccbdfdb04d2c6b7[m[33m ([m[1;32mfeature/RepresentativeManagment---login-menu[m[33m)[m
+Merge: 2c19abc 8581254
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Fri May 16 17:58:22 2025 +0300
+
+    update
+
+[33mcommit 2c19abc4f6eff08b7b20be98b38b937978c766d0[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Fri May 16 17:50:36 2025 +0300
+
+    update code
+
+[33mcommit 8581254c8c9860d565ede2e47f22d4d77952b15e[m
+Author: Tami Medan <tamimedan2880@gmail.com>
+Date:   Fri May 16 16:47:31 2025 +0300
+
+    get name representative by inquiry and get inquiries by representative
+
+[33mcommit 3f13a4d668777694e9b03ca0039c3d5643f5da5b[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Wed May 14 15:36:01 2025 +0300
+
+     communication between a representative and a Inquiry
+
+[33mcommit 02734b50327c725300cc55523f2f9d89c9f30f47[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Wed May 14 08:11:31 2025 +0300
+
+    fix saveCsv
+
+[33mcommit ed59b4c1d4df16abbf64b7c2c2663be270bd0c06[m
+Author: תמר מדן <TamarMe@smg.local>
+Date:   Tue May 13 21:50:47 2025 +0300
+
+    delete representative
+
+[33mcommit 7501ee080c00ea8680fe55b401c2aaaeaa05e320[m
+Author: תמר מדן <TamarMe@smg.local>
+Date:   Tue May 13 15:46:12 2025 +0300
+
+    create enum of InquiryManager action
+
+[33mcommit 562fc6797216427173445fe72949eea27f7060b9[m
+Author: תמר מדן <TamarMe@smg.local>
+Date:   Tue May 13 15:44:21 2025 +0300
+
+    create enum of statusInquiry
+
+[33mcommit 8b97f47682ee97afddbade3c64a0ac1805fc4cc5[m
+Merge: 415fcb3 335c3ee
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Tue May 13 12:36:11 2025 +0000
+
+    Merged feature/ClientServer-initial into master
+
+[33mcommit 335c3ee75e3de9d7b4ac8b6aafa0e3efa2adcca8[m[33m ([m[1;31morigin/feature/ClientServer-initial[m[33m, [m[1;32mfeature/ClientServer-initial[m[33m)[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Tue May 13 15:35:14 2025 +0300
+
+    update file wuth csv
+
+[33mcommit d68f06f9a1be7d4ee32e3fbfa338845f3fb497d3[m
+Author: תמר מדן <TamarMe@smg.local>
+Date:   Tue May 13 14:48:58 2025 +0300
+
+    fixed code with add to inquire and csv files
+
+[33mcommit 5c09a5a01470eeae96c2d4757580b1f123c35661[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Fri May 9 11:39:24 2025 +0300
+
+    update InquiryManager
+
+[33mcommit 35d9cc9a8bf97cdf9be01001f96ec172be5d2345[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu May 8 23:01:18 2025 +0300
+
+    update clite-server
+
+[33mcommit 6e4b9e2f4e45e6b724f8fb7c54c202c8b2ba98f5[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu May 8 22:05:01 2025 +0300
+
+    fix ciient-server
+
+[33mcommit 01909114bccd4d6549ea6c5ffa7929018a171b91[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Mon Apr 28 12:14:20 2025 +0300
+
+    initinal serverSide with socket
+
+[33mcommit 415fcb329cdd3626061d1e4bf922ea93180b3a73[m
+Merge: 762ff03 007500c
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Sun Mar 30 02:08:04 2025 +0000
+
+    Merged feature/ReflrctionPartE into master
+
+[33mcommit 007500c49fd08d08a025e4a37667a48ad80fd829[m[33m ([m[1;31morigin/feature/ReflrctionPartE[m[33m)[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Sun Mar 30 05:07:20 2025 +0300
+
+    update
+
+[33mcommit 762ff0359c4d077e5c95cb2eef2a6ac83c57674e[m
+Merge: 7f14b91 2951811
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Sun Mar 30 01:59:24 2025 +0000
+
+    Merged feature/ReflrctionPartE into master
+
+[33mcommit 2951811e786933e1c598d11d6433774ecd872367[m
+Merge: 4ae3d92 2b86f01
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Sun Mar 30 04:58:04 2025 +0300
+
+    fix conflicts and add representative in part E
+
+[33mcommit 4ae3d929d860615eda0b0300b0cf392e3c10c949[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Sun Mar 30 04:38:23 2025 +0300
+
+    commit
+
+[33mcommit 7f14b9131a92aaea0b4a4a19a37048a9ae0af11c[m
+Merge: 2b86f01 6c1b41c
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Sun Mar 30 01:27:47 2025 +0000
+
+    Merged feature/ReflrctionPartD into master
+
+[33mcommit 6c1b41c808f51cd9a961ccd26b8e0815048e7a95[m[33m ([m[1;31morigin/feature/ReflrctionPartD[m[33m, [m[1;32mfeature/ReflrctionPartD[m[33m)[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Sun Mar 30 04:27:02 2025 +0300
+
+    make my own Exception add adding it in the kode
+
+[33mcommit 2b86f01d010c7899c669adc9476a5b89dc802357[m
+Merge: 4db1206 f9b08fa
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Sat Mar 29 23:56:57 2025 +0000
+
+    Merged feature/ReflrctionPartB into master
+
+[33mcommit f9b08fa2751732fa693b0dd50ba32aa16ec1900d[m[33m ([m[1;31morigin/feature/ReflrctionPartB[m[33m, [m[1;32mfeature/ReflrctionPartB[m[33m)[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Sun Mar 30 02:55:14 2025 +0300
+
+    update part 2
+
+[33mcommit 1777d9fee767601d32fb5be2456cf840ece0ffe8[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Sun Mar 30 02:45:45 2025 +0300
+
+    part E
+
+[33mcommit 4db12067e2e0281082387f120fcfcd457f3f067d[m
+Merge: 23bc899 f69f356
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Thu Mar 27 09:23:50 2025 +0000
+
+    Merged feature/ReflrctionPartB into master
+
+[33mcommit 13b8876c375a47154b23848a69c58b91a1e530b3[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu Mar 27 11:21:52 2025 +0200
+
+    begining of part 3
+
+[33mcommit 137cfad7bd4214d3ac5ea87ed5f9e6ad8c6effc4[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu Mar 27 01:18:45 2025 +0200
+
+    update
+
+[33mcommit f69f3561fc5828b3590b7faf78babf1eb11ad4b8[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Tue Mar 25 20:27:08 2025 +0200
+
+    part 2 ex 1
+
+[33mcommit 23bc899b736d4b786961ec8912e9394fbf576222[m
+Merge: 9dafe7d c79435a
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Tue Mar 25 16:10:13 2025 +0000
+
+    Merged feature/Reflection into master
+
+[33mcommit c79435a974af2a68cb40c884e3ee5f8dc77be5d4[m[33m ([m[1;31morigin/feature/Reflection[m[33m, [m[1;32mfeature/Reflection[m[33m)[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Tue Mar 25 18:06:25 2025 +0200
+
+    update NextCodeVal type 3
+
+[33mcommit 1acc91fbea778d0225d1ca7e815eb414e178c7b1[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Mon Mar 24 17:37:06 2025 +0200
+
+    In the middle of saving nextCodeVal
+
+[33mcommit c7d3e23f11bd8b6f694c992bdfb93b6a9573982b[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Sun Mar 23 02:13:16 2025 +0200
+
+    commit
+
+[33mcommit 9dafe7d86f8fa1f5494238763abde94615ca89dd[m
+Merge: 3a3b719 1d3d4ed
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Sat Mar 22 23:41:09 2025 +0000
+
+    Merged feature/Reflection into master
+
+[33mcommit 1d3d4ed3cbdb73eb7333b45a2c8a5d92126b776b[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Sun Mar 23 01:39:27 2025 +0200
+
+    update parseFromFile with setClassName
+
+[33mcommit 7554f9d5072ce8584dc9cd4f999e0a9824302078[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Sun Mar 23 01:29:29 2025 +0200
+
+    save in file nextCodeVal
+
+[33mcommit 3a3b71913b5789af024237c17f9e34713ba4c6c7[m[33m ([m[1;31morigin/feature/ReflectionPartB[m[33m)[m
+Merge: 0bc9f2f 40f8e2a
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Thu Mar 20 20:31:45 2025 +0000
+
+    Merged feature/Reflection into master
+
+[33mcommit 40f8e2a99850ea6292218f7a756470dbf47c8cb4[m
+Merge: 950c415 0bc9f2f
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu Mar 20 22:31:06 2025 +0200
+
+    conflicts fixed in main
+
+[33mcommit 0bc9f2f9f0456d993f47f9724c2e107d1069d1fc[m
+Merge: 3a1417f cb7a043
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu Mar 20 22:26:12 2025 +0200
+
+    conflicts fixed
+
+[33mcommit 3a1417f7580c255bcfa9c246fca8093b73898d6e[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu Mar 20 19:15:42 2025 +0200
+
+    update
+
+[33mcommit 950c415483bb738d9bd79a4eb05084ebaf0d2518[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu Mar 20 18:42:34 2025 +0200
+
+    update part 1 reflection function readFile
+
+[33mcommit 17a1ab6f64909b890b525b8703c231460bcfbc85[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Thu Mar 20 16:49:27 2025 +0200
+
+    update readFile function whis refection
+
+[33mcommit 8eda662f90c7098ecb88d5ec23f6ea38d3e97081[m
+Merge: cc41990 d150883
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Thu Mar 20 15:14:57 2025 +0200
+
+    update Inquiry
+
+[33mcommit cc41990f259824cf76f859432e888191bebdab0b[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Thu Mar 20 15:08:42 2025 +0200
+
+    update Inquiry
+
+[33mcommit d150883bcc265c558808aa721ca8f2751c6c934b[m
+Merge: 58b32df 591284e
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu Mar 20 04:31:59 2025 +0200
+
+    merge master
+
+[33mcommit cb7a0439ea24ee92932d2d26fa67a1ca81b05bd8[m
+Merge: 591284e 2ab0c85
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Thu Mar 20 02:20:16 2025 +0000
+
+    Merged feature/nightProcess into master
+
+[33mcommit 2ab0c858b14843ad627634c719935b4d6a76eeab[m[33m ([m[1;31morigin/feature/nightProcess[m[33m, [m[1;32mfeature/nightProcess[m[33m)[m
+Merge: 23e9592 591284e
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu Mar 20 04:15:59 2025 +0200
+
+    update Main
+
+[33mcommit 58b32df208cea158bd6fd2983d53816ff143ba69[m
+Author: Tamar-Git-Hub <tamar76565@gmail.com>
+Date:   Thu Mar 20 03:38:30 2025 +0200
+
+    update function readFile & parseFromFile & Inserting existing requests into the queue
+
+[33mcommit d11b7c613e26342a1d5ec2742eddfd8b2258f202[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Tue Mar 18 16:50:29 2025 +0200
+
+    Initial reflaction part 1
+
+[33mcommit 23e95923d670e54f617146f4371a6aeaa5b5507d[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Tue Mar 18 12:55:07 2025 +0200
+
+    update main with nightlyFileDeletion
+
+[33mcommit 591284e3f4d0373872b97d8a3e4733952d0d4948[m
+Merge: 2984120 8558e87
+Author: TAMAR MEDAN <tamimedan2880@gmail.com>
+Date:   Tue Mar 18 10:48:39 2025 +0000
+
+    Merged feature/process_night_delete_files into master
+
+[33mcommit 2984120406de62f27997ddfe34c84ce193be43ef[m
+Merge: 5c1b6d9 2c66e60
+Author: TAMAR MEDAN <tamimedan2880@gmail.com>
+Date:   Tue Mar 18 10:48:29 2025 +0000
+
+    Merged feature/nightProcess into master
+
+[33mcommit 5c1b6d96deeac342c1d4bfa145c763bdc55787eb[m
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Tue Mar 18 09:43:39 2025 +0000
+
+    .gitignore edited online with Bitbucket
+
+[33mcommit 8558e87a3d7fc826f41183547434eb60079f437a[m[33m ([m[1;31morigin/feature/process_night_delete_files[m[33m)[m
+Author: תמר מדן <TamarMe@smg.local>
+Date:   Tue Mar 18 11:28:28 2025 +0200
+
+    process night part 6
+
+[33mcommit 2c66e608250606785785e5a96c4a1732eab982ce[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Tue Mar 18 11:09:22 2025 +0200
+
+    update Nightly Process Delete Old Files with thread
+
+[33mcommit 2ba0093fed86b7f2f6f1b6eef0549f6aada69378[m
+Merge: 025d5f6 d600dbe
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Tue Mar 18 08:36:46 2025 +0000
+
+    Merged feature/HandleFiles into master
+
+[33mcommit 025d5f6234af0da1c0f181993017400263ab2794[m
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Tue Mar 18 07:55:49 2025 +0000
+
+    .gitignore edited online with Bitbucket
+
+[33mcommit a90f94d6ce15de107370ca1ebb6dc2a46197f21c[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Mon Mar 17 19:35:15 2025 +0200
+
+    Nightly Process Delete Old Files
+
+[33mcommit d600dbe519dab220d51ad0fce3980b9d2f0392a8[m[33m ([m[1;31morigin/feature/HandleFiles[m[33m)[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Tue Mar 11 16:46:03 2025 +0200
+
+    update process HandelFiles
+
+[33mcommit fe1daf45d8a5f4b84f8b4b5890f601a26ae149d1[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Tue Mar 11 13:30:13 2025 +0200
+
+    process HandelFiles
+
+[33mcommit 3e4cfb879e64708be312100dbf06ae5193af1c56[m
+Author: תמר גרינואלד <TamarGri@smg.local>
+Date:   Tue Mar 11 11:30:15 2025 +0200
+
+    new project
+
+[33mcommit 6eabf83918f0a0fb821dec0fadefc980479edd7d[m
+Author: Tamar Greenwald <tamar76565@gmail.com>
+Date:   Tue Mar 11 09:16:45 2025 +0000
+
+    Initial commit
